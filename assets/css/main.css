@@ -2543,6 +2543,11 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		video {
+		  width: 100%;
+		  height: auto;
+		}
+
 			.features li:nth-child(1) {
 				background-color: rgba(0, 0, 0, 0.035);
 			}
